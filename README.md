@@ -18,3 +18,6 @@ kOOLDAV is aiming to be a drop-in CardDAV server for kOOL. It allows users to sy
 * At the moment, kOOLDAV is read-only, i.e. it only supports reading data out of kOOL into another database/device. 
 * This is still quite a hack.
 
+### Install
+
+To install, it should be sufficient to drop the contents of this repository right into your main kOOL folder.
